@@ -53,4 +53,4 @@ public class MemoryConfig {
 
 이런 부분을 자동으로 처리해주는 것이 바로 스프링 부트 자동 구성(Auto Configuration)이다.
 
-[다음내용](https://github.com/sunlike0508/spring-memory-project-v2)
+[다음내용](https://github.com/sunlike0508/spring-memory-v2)
